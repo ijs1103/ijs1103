@@ -19,7 +19,7 @@
 
 ![SCSS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-%23FFDC0F?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**라이브러리**
+**라이브러리 & 프레임워크**
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white) 
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=ApolloGraphQL&logoColor=white)
