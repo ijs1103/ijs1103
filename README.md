@@ -5,7 +5,7 @@
 
 **주요 스택**
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
 
 
 **상태관리**
@@ -17,7 +17,7 @@
 
 **스타일**
 
-![SCSS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-%23FFDC0F?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![UIkit](https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white) ![SCSS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-%23FFDC0F?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **라이브러리 & 프레임워크**
 
