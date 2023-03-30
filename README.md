@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=ijs1103&animation=fadeIn&type=Waving&fontColor=ebe7f1&fontSize=50)
 
 
 ## STACK
