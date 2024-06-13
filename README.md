@@ -25,6 +25,6 @@
 ![aws-s3](https://img.shields.io/badge/AmazonS3-%23569A31.svg?style=for-the-badge&logo=AmazonS3&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijs1103&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijs1103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijs1103&show_icons=true&theme=radical) 
 
 
